@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b8013ffd9fd6ff24faed6860b168ade2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - score: {instanceID: 0}
+  - lives: {instanceID: 0}
+  - endGame: {fileID: 8863590302877642252, guid: 2461569f4da8237429b88edff9c254ea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
